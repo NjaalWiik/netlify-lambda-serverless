@@ -1,0 +1,24 @@
+{
+  "name": "netlify-lambda-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjaalWiik/netlify-lambda-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjaalWiik/netlify-lambda-serverless/issues"
+  },
+  "homepage": "https://github.com/NjaalWiik/netlify-lambda-serverless#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "netlify-lambda": "^2.0.1"
+  }
+}
